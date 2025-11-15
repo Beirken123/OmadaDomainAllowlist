@@ -57,3 +57,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 euw1-wap-omada.tplinknbu.com
 0.0.0.0 n-da.tplinkcloud.com
 0.0.0.0 pool.ntp.org
+0.0.0.0 0.android.pool.ntp.org
+0.0.0.0 1.android.pool.ntp.org
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 3.android.pool.ntp.org
+0.0.0.0 time-a.nist.gov
+0.0.0.0 time-b.nist.gov
+0.0.0.0 time-ios.apple.com
+0.0.0.0 time.asia.apple.com
+0.0.0.0 time.apple.com
