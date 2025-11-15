@@ -1,0 +1,41 @@
+# Title: DomainLists/Tapo
+#
+# This hosts file is a collection of hosts formed by inspecting legitimate traffic
+# from personally owned Tapo devices
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+#=====================================
+# Title: Hosts contributed by Beirken123
+
+0.0.0.0 stun.tplinkcloud.com
+0.0.0.0 euw1-device-tapo-care.i.tplinknbu.com
+0.0.0.0 euw1-device-cloudgateway.iot.i.tplinknbu.com
+0.0.0.0 n-da.tplinkcloud.com
+0.0.0.0 security.iot.i.tplinknbu.com
+0.0.0.0 pool.ntp.org
+0.0.0.0 0.android.pool.ntp.org
+0.0.0.0 1.android.pool.ntp.org
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 3.android.pool.ntp.org
+0.0.0.0 time.nist.gov
+0.0.0.0 time-a.nist.gov
+0.0.0.0 time-b.nist.gov
+0.0.0.0 time-ios.apple.com
+0.0.0.0 time.asia.apple.com
+0.0.0.0 time.apple.com
