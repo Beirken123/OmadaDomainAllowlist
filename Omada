@@ -1,4 +1,4 @@
-# Title: OmadaDomainAllowList/hosts
+# Title: DomainLists/Omada
 #
 # This hosts file is a collection of hosts formed by inspecting legitimate traffic
 # from personally owned omada devices
@@ -19,12 +19,6 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start StevenBlack
 
 #=====================================
 # Title: Hosts contributed by Beirken123
